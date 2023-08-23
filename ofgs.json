@@ -1,0 +1,26 @@
+[{
+        "name": "Comunicacion Oral y No Verbal",
+        "code": "LET031E",
+        "about": "Este curso, esencialmente práctico, está diseñado con la finalidad de proporcionar la información y recursos necesarios para desarrollar comportamientos que optimicen la comunicación oral y el manejo del lenguaje no verbal de los estudiantes, cualquiera sea su disciplina, con el propósito de que logren expresarse en forma eficiente y eficaz. Por esta razón, el curso otorga un conjunto de modelos, habilidades y técnicas para la obtención de estados de excelencia en comunicación."
+    },
+    {
+        "name": "Astronomy",
+        "code": "AST0112",
+        "about": "The course presents a general view of the current scientific understanding of the Universe with its compoments, including basic notions on its physical and observational fundaments."
+    },
+    {
+        "name": "Introducción al Arte Contemporaneo",
+        "code": "ESO236B",
+        "about": "El curso nace como respuesta a la necesidad del estudiante universitario de ampliar su horizonte cultural, unido al contacto directo que tendrá en su profesión, no sólo con sus pares, sino que con otros representantes de la sociedad, en la pluralidad y diversidad y a la conveniencia de abrir su mente al arte de nuestro tiempo debido al criterio, bastante generalizado, de no reconocerlo como propio, de donde se deriva su rechazo o la condena por suponerlo incomprensible y hermético. El curso está dirigido a alumnos de la Licenciatura en Artes y Humanidades (College UC), pero también a alumnos de otras carreras interesados en el Arte."
+    },
+    {
+        "name": "Taller de Infografía",
+        "code": "COM809",
+        "about": "En este curso los estudiantes adquirirán herramientas para la representación visual de un hecho o noticia a través de una infografía. A su vez el alumno aprenderá a utilizar metodologías para desarrollar proyectos gráficos, diagramas, ilustraciones, entre otros, que faciliten el entendimiento del lector."
+    },
+    {
+        "name": "Artes Mediales",
+        "code": "ART0404",
+        "about": "Curso teórico-práctico que introduce al alumno en los contenidos fundamentales de las Artes Mediales -los lenguajes visuales que usan las tecnologías digitales- que se presentan como nuevos medios creativos y artísticos. El curso aborda los problemas del lenguaje audiovisual desde el arte contemporáneo y la experimentación de las técnicas digitales asociadas al manejo de la imagen fija y en movimiento."
+    }
+]	
